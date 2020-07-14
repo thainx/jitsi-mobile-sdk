@@ -3,10 +3,10 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-community-async-storage</artifactId>
   <versioning>
-    <release>1.3.4-jitsi-4774927</release>
+    <release>1.3.4-jitsi-4842221</release>
     <versions>
-      <version>1.3.4-jitsi-4774927</version>
+      <version>1.3.4-jitsi-4842221</version>
     </versions>
-    <lastUpdated>20200706145641</lastUpdated>
+    <lastUpdated>20200714094955</lastUpdated>
   </versioning>
 </metadata>
