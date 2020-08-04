@@ -81,7 +81,7 @@
         "FETCH_SESSION_ID": "Obtention d’un identifiant de session…",
         "GET_SESSION_ID_ERROR": "Obtenir une erreur d’identifiant de session : {{code}}",
         "GOT_SESSION_ID": "Obtention d’un identifiant de session… Terminée",
-        "LOW_BANDWIDTH": "La vidéo de {{displayName}} a été désactivée pour économiser de la bande passante"
+        "LOW_BANDWIDTH": "La vidéo de {{displayName}} a été désactivée pour économiser de la ba de passante"
     },
     "connectionindicator": {
         "address": "Adresse :",
@@ -174,7 +174,7 @@
         "contactSupport": "Contacter le support",
         "copy": "Copier",
         "dismiss": "Rejeter",
-        "displayNameRequired": "Bonjour! Quel est votre nom ?",
+        "displayNameRequired": "Salut! Quel est votre nom ?",
         "done": "Terminé",
         "enterDisplayName": "Merci de saisir votre nom ici",
         "error": "Erreur",
@@ -679,6 +679,7 @@
         "videomute": "Démarrer / Arrêter la caméra",
         "startvideoblur": "Flouter mon arrière plan",
         "stopvideoblur": "Désactiver le flou d'arrière-plan",
+        "muteEveryone": "Mettre tout le monde en sourdine",
         "noAudioSignalDialInDesc": "Vous pouvez également composer un numéro en utilisant :",
         "noAudioSignalDialInLinkDesc": "Numéros d'appel"
     },
